@@ -1,6 +1,6 @@
 **Commercial & Product Performance Analytics** 
 
-An end-to-end data analytics project using SQL, Python, and Power BI to analyze customer behaviors, product line profitability, and global logistics efficiency using the Global Superstore Dataset.
+An end-to-end data analytics project using Power BI to analyze customer behaviors, product line profitability, and global logistics efficiency using the Global Superstore Dataset.
  
 ---
 
