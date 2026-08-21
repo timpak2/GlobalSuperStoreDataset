@@ -57,10 +57,10 @@ Key Insights & Business Impact
 
 ---
 Co-pilot in Project Optimization
-**Data Modelling** Architectures the Star Schema, manages table relationships, and optimizes storage modes (Import vs. DirectQuery). The file in this project is imported from SharePoint with permission of Datapot, where I conduct this project. 
-**DAX Logic** DAX logic, optimizes query performance, controls evaluation contexts, and handles complex filter contexts.
-**Dashboard** Applies data storytelling principles, and aligns report aesthetics
-**Business Insights** Diagnoses, injects domain-specific business context, and formulates actionable strategic recommendations.
+***Data Modelling** Architectures the Star Schema, manages table relationships, and optimizes storage modes (Import vs. DirectQuery). The file in this project is imported from SharePoint with permission of Datapot, where I conduct this project.
+***DAX Logic** DAX logic, optimizes query performance, controls evaluation contexts, and handles complex filter contexts.
+***Dashboard** Applies data storytelling principles, and aligns report aesthetics
+***Business Insights** Diagnoses, injects domain-specific business context, and formulates actionable strategic recommendations.
 
 ---
 For more info: Please send me a DM.
