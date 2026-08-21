@@ -63,7 +63,7 @@ Co-pilot in Project Optimization
 **Business Insights** Diagnoses, injects domain-specific business context, and formulates actionable strategic recommendations.
 
 ---
-For more info: Please send a DM.
+For more info: Please send me a DM.
 
 
 
