@@ -11,7 +11,7 @@ Table of Contents
 - [Tech Stack](#-tech-stack)
 - [5-Level Data Analytics Execution](#-5-level-data-analytics-execution)
 - [Key Insights & Business Impact](#-key-insights--business-impact)
-- [Co-pilot in Project Optimization](#-copilot_optimizes-this-project)
+- [Copilot in Project Optimization](#-copilot_optimizes-this-project)
 
 ---
 
@@ -56,11 +56,15 @@ Key Insights & Business Impact
 * **Logistics Optimization:** Identified key country-level delivery bottlenecks, helping streamline supply chain routes to reduce average lead times by **15%**.
 
 ---
-Co-pilot in Project Optimization
-***Data Modelling** Architectures the Star Schema, manages table relationships, and optimizes storage modes (Import vs. DirectQuery). The file in this project is imported from SharePoint with permission of Datapot, where I conduct this project.
-***DAX Logic** DAX logic, optimizes query performance, controls evaluation contexts, and handles complex filter contexts.
-***Dashboard** Applies data storytelling principles, and aligns report aesthetics
-***Business Insights** Diagnoses, injects domain-specific business context, and formulates actionable strategic recommendations.
+Copilot in Project Optimization
+
+***Data Modelling:** Architectures the Star Schema, manages table relationships, and optimizes storage modes (Import vs. DirectQuery). The file in this project is imported from SharePoint with permission of Datapot, where I conduct this project.
+
+***DAX Logic:** DAX logic, optimizes query performance, controls evaluation contexts, and handles complex filter contexts.
+
+***Dashboard:** Applies data storytelling principles, and aligns report aesthetics
+
+***Business Insights:** Diagnoses, injects domain-specific business context, and formulates actionable strategic recommendations.
 
 ---
 For more info: Please send me a DM.
