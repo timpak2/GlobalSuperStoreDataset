@@ -1,4 +1,4 @@
-**Global Online Retail Analytics & Performance Optimization**
+**Global Online Retail Analytics & Performance Optimization** 
 
 An end-to-end data analytics project using SQL, Python, and Power BI to analyze customer behaviors, product line profitability, and global logistics efficiency using the Global Superstore Dataset.
  
